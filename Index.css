@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(92, 170, 243);
+}
+.header{
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(90, 214, 96);
+    color: white;
+    font-size: 20px;
+    }
+#primeiralinha{
+    text-align: center;
+    background-color: rgb(114, 92, 194);
+    display:flex;
+    justify-content: space-around;
+}
+#botoes{
+    background-color: rgb(37, 201, 201);
+}
